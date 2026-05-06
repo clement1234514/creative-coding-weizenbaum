@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #000;
+  font-family: Helvetica, Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+#canvas-container {
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 0 25px rgba(0, 255, 119, 0.35);
+}
