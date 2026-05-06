@@ -46,7 +46,7 @@ So wird die Aussage des Zitats visuell erfahrbar.
 - Hover‑Erkennung über `mouseX` / `mouseY`
 
 ##  Live‑Version
-Du kannst das Projekt hier direkt im Browser anschauen:
+Man kann das Projekt hier direkt im Browser anschauen:
 
  http://clement1234514.me/creative-coding-weizenbaum/
 
